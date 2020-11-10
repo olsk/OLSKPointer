@@ -22,6 +22,7 @@ export let OLSKPointerStroke = 2;
 		inset 0 -1px 1px rgba(0, 0, 0, 0.5),
 		inset 0 1px 1px rgba(255, 255, 255, 0.8);
 	opacity: 0.9;
+	pointer-events: none;
 }
 
 :global(.OLSKPointerActive) {
