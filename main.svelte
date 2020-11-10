@@ -25,6 +25,6 @@ export let OLSKPointerStroke = 2;
 }
 
 :global(.OLSKPointerActive) {
-	background: linear-gradient(#ddd, #eee);
+	background: linear-gradient(#ddd, #eee) !important;
 }
 </style>
