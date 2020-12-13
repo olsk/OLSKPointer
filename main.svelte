@@ -15,7 +15,7 @@ export let OLSKPointerStroke = 2;
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	z-index: 99999999;
+	z-index: 9999999999;
 	
 	background: linear-gradient(#eee, #ddd);
 	box-shadow:
